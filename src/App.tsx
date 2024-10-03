@@ -1,8 +1,8 @@
 import "./App.css";
-import List from "./components/List";
+import Demo from "./components/demo1";
 
 function App() {
-  return <List />;
+  return <Demo />;
 }
 
 export default App;
